@@ -21,7 +21,7 @@ As a group, we'll be reviewing and improving upon some initial thoughts on a usa
 
 ## Outcomes
 
-A set of questions that any engineer would find useful to ask themselves.
+A set of questions that any engineer would find useful to ask themselves. The aim will be to produce multi-choice style answers to go with the questions as well as an aircraft pilot-style set of checklists.
 
 ## References
 
